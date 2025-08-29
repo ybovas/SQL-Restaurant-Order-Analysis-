@@ -1,8 +1,6 @@
 # SQL-Restaurant-Order-Analysis-
 
-🍽️ SQL Portfolio Project – Restaurant Menu & Orders Analysis (MSSQL)
 📌 Business Objective
-
 The primary goal of this project is to analyze restaurant data to understand menu pricing, customer ordering behavior, and sales performance.
 Using SQL Server (MSSQL), we explore tables (menu_items, order_details) to derive insights that can help the business optimize its offerings, pricing strategy, and inventory planning.
 
